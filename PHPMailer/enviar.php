@@ -5,6 +5,8 @@ use PHPMailer\PHPMailer\Exception;
 
 require 'vendor/autoload.php';
 
+date_default_timezone_set('America/Sao_Paulo');
+
 // Variáveis do formulário
 
 $nome = $_POST['nome'];
