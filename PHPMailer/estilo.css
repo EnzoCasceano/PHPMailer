@@ -1,0 +1,38 @@
+body {
+    font-size: 12px;
+    font-family: Verdana, Geneva, sans-serif;
+    background-image: url("img/fundo-cinza-claro11-1024x640.webp");
+}
+
+#nome {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+#assunto {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+#email {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+#mensagem {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+
+
+#contato_form {
+    width: 500px;
+    min-height: 175px;
+    margin-left: 10px;
+}
+
+#botao {
+    margin-top: 10px;
+}
+
